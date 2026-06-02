@@ -50,10 +50,10 @@ Tenho interesse em:
 * Enter the technology market as a developer.
 
 ---
----
 <div align="center">
 
-✨ **"O conhecimento abre portas, mas a prática constrói o caminho."** ✨
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Apaixonado+por+Tecnologia;🐍+Aprendendo+Python+e+C%2B%2B;🐧+Explorando+o+Mundo+Linux;🚀+Construindo+Meu+Futuro+na+Programação" alt="Typing SVG" />
 
 </div>
+
 ---
