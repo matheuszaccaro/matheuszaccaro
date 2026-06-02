@@ -53,9 +53,7 @@ Tenho interesse em:
 ---
 <div align="center">
 
-```python
-while True:
-    aprender()
-    praticar()
-    evoluir()
+✨ **"O conhecimento abre portas, mas a prática constrói o caminho."** ✨
+
+</div>
 ---
