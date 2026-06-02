@@ -19,11 +19,14 @@ Discovering technology, programming and developing solutions that generate impac
 
 ## 🛠️ • Technologies and tools
 
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
 
 ---
 
