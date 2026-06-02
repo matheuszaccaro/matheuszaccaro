@@ -1,23 +1,77 @@
 ## Hello, my name is Matheus Zaccaro.
-🎓 • Student of the Systems Development technical course at SESI-SENAI Cruzeiro/Lorena.
-Discovering technology, programming and developing solutions that generate impact. I am currently building my technical base and developing projects to improve my skills and practical experience.
-- Currently learning:
-• Python
-• Linux Ubuntu
-• Software Engineering
-• Arduino
-• C++
-• Windows CMD
 
+🎓 Estudante do curso técnico de **Desenvolvimento de Sistemas** no **SESI-SENAI Cruzeiro/Lorena**.
 
-📚 • About me
-I am a student dedicated to the technology area, constantly seeking to learn new tools, methodologies and good development practices.
+💻 Apaixonado por tecnologia, programação e desenvolvimento de soluções que geram impacto. Atualmente estou construindo minha base técnica e desenvolvendo projetos para aprimorar minhas habilidades e experiência prática.
 
-- I'm interested in:
-•Software Development
-•Automation
-•Embedded Systems
-•Backend Programming
+---
+
+## 🚀 Atualmente aprendendo
+
+* 🐍 Python
+* 🐧 Linux Ubuntu
+* ⚙️ Engenharia de Software
+* 🤖 Arduino
+* 💻 C++
+* 🖥️ Windows CMD
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+---
+
+## 📚 Sobre mim
+
+Sou um estudante dedicado à área de tecnologia, buscando constantemente aprender novas ferramentas, metodologias e boas práticas de desenvolvimento.
+
+Tenho interesse em:
+
+* Desenvolvimento de Software
+* Automação
+* Sistemas Embarcados
+* Programação Back-end
+* Infraestrutura Linux
+* Boas práticas de Engenharia de Software
+
+---
+
+## ⭐ Competências
+
+* Autonomia
+* Gestão de Tempo
+* Trabalho em Equipe
+* Organização
+* Resolução de Problemas
+* Desenvolvimento de Projetos de Software
+* Aprendizado Contínuo
+
+---
+
+## 📈 Objetivos
+
+* Aprimorar minhas habilidades em desenvolvimento de software.
+* Construir projetos práticos para meu portfólio.
+* Contribuir com projetos open source.
+* Ingressar no mercado de tecnologia como desenvolvedor.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [SEU LINK]
+* E-mail: [SEU E-MAIL]
+* GitHub: https://github.com/[SEU_USUARIO]
+
+---
+
+> "A tecnologia move o mundo, mas o aprendizado constante impulsiona a carreira."
 
 <!--
 **matheuszaccaro/matheuszaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
