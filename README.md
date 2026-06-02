@@ -6,6 +6,15 @@ Discovering technology, programming and developing solutions that generate impac
 
 ---
 
+## 📈 • Objetives
+
+* Improve my software development skills.
+* Build practical projects.
+* Contribute to open source projects.
+* Enter the technology market as a developer.
+
+---
+
 ## 🛠️ • Currently learning
 
 
@@ -17,15 +26,6 @@ Discovering technology, programming and developing solutions that generate impac
   <img src="https://img.shields.io/badge/Software_Engineering-00599C?style=for-the-badge&logo=bookstack&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows_CMD-000000?style=for-the-badge&logo=windows-terminal&logoColor=white" />
 </p>
-
----
-
-## 📈 • Objetives
-
-* Improve my software development skills.
-* Build practical projects.
-* Contribute to open source projects.
-* Enter the technology market as a developer.
 
 ---
 
