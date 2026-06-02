@@ -21,9 +21,8 @@ Discovering technology, programming and developing solutions that generate impac
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,windows,vscode,roblox" />
 </p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="5000" alt="Terminal" />
 
 
 ---
