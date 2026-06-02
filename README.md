@@ -23,7 +23,7 @@ Discovering technology, programming and developing solutions that generate impac
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,windows,vscode" />
 </p>
-![My Skills](https://skillicons.dev/icons?i=windows)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="Terminal" />
 
 
 ---
