@@ -20,6 +20,15 @@ Discovering technology, programming and developing solutions that generate impac
 
 ---
 
+## 📈 • Objetives
+
+* Improve my software development skills.
+* Build practical projects.
+* Contribute to open source projects.
+* Enter the technology market as a developer.
+
+---
+
 ## 📚 • About me
 
 I am a student dedicated to the technology area, constantly seeking to learn new tools, methodologies and good development practices.
@@ -40,15 +49,5 @@ Tenho interesse em:
 * Continuous Learning
 * Perseverance
 
----
-
-## 📈 • Objetives
-
-* Improve my software development skills.
-* Build practical projects.
-* Contribute to open source projects.
-* Enter the technology market as a developer.
-
----
 
 ---
