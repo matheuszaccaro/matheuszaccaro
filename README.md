@@ -40,7 +40,7 @@ Tenho interesse em:
 
 ---
 
-## ⭐ • Competences
+## ⭐ • Core Strengths
 
 * Time Management
 * Teamwork
