@@ -1,12 +1,3 @@
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&weight=600&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+
-[Seu+Nome]+ ;Técnico+em+Desenvolvimento+de+Sistemas;Python+%7C+Linux+Ubuntu+
-%7C+C%2B%2B;Arduino+%7C+Windows+CMD;Engenharia+de+Software;Bem-vindo+ao+meu+GitHub!"
-alt="Typing SVG" />
-</div>
-
-
 ## Hello, my name is Matheus Zaccaro.
 
 🎓 • Student of the *Systems Development* technical course at *SESI-SENAI Cruzeiro/Lorena.*
