@@ -21,8 +21,9 @@ Discovering technology, programming and developing solutions that generate impac
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,windows,cmd,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino,windows,vscode" />
 </p>
+![My Skills](https://skillicons.dev/icons?i=windows)
 
 
 ---
