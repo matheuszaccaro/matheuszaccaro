@@ -50,10 +50,5 @@ Tenho interesse em:
 * Enter the technology market as a developer.
 
 ---
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=🎓+Estudante+de+Desenvolvimento+de+Sistemas;💻+Transformando+ideias+em+código;🐍+Aprendendo+Python%2C+C%2B%2B+e+Linux;🚀+Construindo+meu+futuro+na+tecnologia;⚡+Autonomia%2C+disciplina+e+evolução+constante;🌟+Obrigado+por+visitar+meu+perfil!" alt="Typing SVG" />
-
-</div>
 
 ---
