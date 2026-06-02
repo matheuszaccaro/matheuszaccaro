@@ -51,8 +51,14 @@ Tenho interesse em:
 
 ---
 
-It's Only The End When You Give Up.
+---
+<div align="center">
 
+```python
+while True:
+    aprender()
+    praticar()
+    evoluir()
 <!--
 **matheuszaccaro/matheuszaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
