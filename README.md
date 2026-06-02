@@ -5,7 +5,7 @@ font=Fira+Code&weight=600&size=32&pause=1000&color=00C2FF&center=true&vCenter=tr
 %7C+C%2B%2B;Arduino+%7C+Windows+CMD;Engenharia+de+Software;Bem-vindo+ao+meu+GitHub!"
 alt="Typing SVG" />
 </div>
----
+
 
 ## Hello, my name is Matheus Zaccaro.
 
