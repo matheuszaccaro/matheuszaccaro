@@ -1,12 +1,12 @@
 ## Hello, my name is Matheus Zaccaro.
 
-🎓 Estudante do curso técnico de **Desenvolvimento de Sistemas** no **SESI-SENAI Cruzeiro/Lorena**.
+🎓 • Student of the *Systems Development* technical course at *SESI-SENAI Cruzeiro/Lorena.*
 
-💻 Apaixonado por tecnologia, programação e desenvolvimento de soluções que geram impacto. Atualmente estou construindo minha base técnica e desenvolvendo projetos para aprimorar minhas habilidades e experiência prática.
+Discovering technology, programming and developing solutions that generate impact. I am currently building my technical base and developing projects to improve my skills and practical experience.
 
 ---
 
-## 🚀 Atualmente aprendendo
+## Currently learning:
 
 * 🐍 Python
 * 🐧 Linux Ubuntu
@@ -17,7 +17,8 @@
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ • Technologies and tools
+
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
@@ -27,51 +28,38 @@
 
 ---
 
-## 📚 Sobre mim
+## 📚 • About me
 
-Sou um estudante dedicado à área de tecnologia, buscando constantemente aprender novas ferramentas, metodologias e boas práticas de desenvolvimento.
-
+I am a student dedicated to the technology area, constantly seeking to learn new tools, methodologies and good development practices.
 Tenho interesse em:
 
-* Desenvolvimento de Software
-* Automação
-* Sistemas Embarcados
-* Programação Back-end
-* Infraestrutura Linux
-* Boas práticas de Engenharia de Software
+* Software Development
+* Backend Programming
+* Embedded Systems
+* Automation
 
 ---
 
-## ⭐ Competências
+## ⭐ • Competences
 
-* Autonomia
-* Gestão de Tempo
-* Trabalho em Equipe
-* Organização
-* Resolução de Problemas
-* Desenvolvimento de Projetos de Software
-* Aprendizado Contínuo
+* Time Management
+* Teamwork
+* Problem Solving
+* Continuous Learning
+* Perseverance
 
 ---
 
-## 📈 Objetivos
+## 📈 • Objetives
 
-* Aprimorar minhas habilidades em desenvolvimento de software.
-* Construir projetos práticos para meu portfólio.
-* Contribuir com projetos open source.
-* Ingressar no mercado de tecnologia como desenvolvedor.
-
----
-
-## 📫 Contato
-
-* LinkedIn: [SEU LINK]
-* E-mail: [SEU E-MAIL]
-* GitHub: https://github.com/[SEU_USUARIO]
+* Improve my software development skills.
+* Build practical projects.
+* Contribute to open source projects.
+* Enter the technology market as a developer.
 
 ---
 
-> "A tecnologia move o mundo, mas o aprendizado constante impulsiona a carreira."
+It's Only The End When You Give Up.
 
 <!--
 **matheuszaccaro/matheuszaccaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
