@@ -8,6 +8,7 @@ Discovering technology, programming and developing solutions that generate impac
 
 ## 🛠️ • Currently learning
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
 </p>
