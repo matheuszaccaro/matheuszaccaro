@@ -20,11 +20,10 @@ Discovering technology, programming and developing solutions that generate impac
 ## 🛠️ • Technologies and tools
 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge\&logo=ubuntu\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,cpp,arduino,git,github,vscode" />
+</p>
+
 
 ---
 
@@ -73,5 +72,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,ubuntu,cpp,arduino,git,github,vscode" />
+</p>
+
 - ⚡ Fun fact: ...
 -->
