@@ -6,18 +6,7 @@ Discovering technology, programming and developing solutions that generate impac
 
 ---
 
-## Currently learning:
-
-* 🐍 Python
-* 🐧 Linux Ubuntu
-* ⚙️ Engenharia de Software
-* 🤖 Arduino
-* 💻 C++
-* 🖥️ Windows CMD
-
----
-
-## 🛠️ • Technologies and tools
+## 🛠️ • Currently learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ubuntu,cpp,arduino" />
